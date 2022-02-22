@@ -1,0 +1,14 @@
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Debug\netcoreapp3.1\TallerComplejidad.csproj.AssemblyReference.cache
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Debug\netcoreapp3.1\TallerComplejidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Debug\netcoreapp3.1\TallerComplejidad.AssemblyInfoInputs.cache
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Debug\netcoreapp3.1\TallerComplejidad.AssemblyInfo.cs
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Debug\netcoreapp3.1\TallerComplejidad.csproj.CoreCompileInputs.cache
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\bin\Debug\netcoreapp3.1\TallerComplejidad.exe
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\bin\Debug\netcoreapp3.1\TallerComplejidad.deps.json
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\bin\Debug\netcoreapp3.1\TallerComplejidad.runtimeconfig.json
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\bin\Debug\netcoreapp3.1\TallerComplejidad.runtimeconfig.dev.json
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\bin\Debug\netcoreapp3.1\TallerComplejidad.dll
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\bin\Debug\netcoreapp3.1\TallerComplejidad.pdb
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Debug\netcoreapp3.1\TallerComplejidad.dll
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Debug\netcoreapp3.1\TallerComplejidad.pdb
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Debug\netcoreapp3.1\TallerComplejidad.genruntimeconfig.cache

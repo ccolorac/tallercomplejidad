@@ -1,0 +1,5 @@
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Release\netcoreapp3.1\TallerComplejidad.csproj.AssemblyReference.cache
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Release\netcoreapp3.1\TallerComplejidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Release\netcoreapp3.1\TallerComplejidad.AssemblyInfoInputs.cache
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Release\netcoreapp3.1\TallerComplejidad.AssemblyInfo.cs
+C:\Users\312C-21\source\repos\TallerComplejidad\TallerComplejidad\obj\Release\netcoreapp3.1\TallerComplejidad.csproj.CoreCompileInputs.cache
